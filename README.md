@@ -24,4 +24,3 @@ This portfolio showcases my skills, projects, certifications, and provides a way
 - CSS3 (Internal styling)  
 - Formspree (for contact form handling)  
 
-## 📁 Project Structure
